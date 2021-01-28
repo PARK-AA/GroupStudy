@@ -1,6 +1,7 @@
 package Nineteenth;
 
 public class SynchronizedBank {
+    // critical section ( money 변수)
     private int money = 100000;
 
     public int getMoney() {
