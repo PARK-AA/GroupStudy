@@ -36,7 +36,7 @@ class PlaceGoods {
     public void bestGoods(int num) {
         this.takeoutNum = num; // 총 물품 중 뺄 개수
         int restGoods = goods - num; // num개를 뺀 나머지 총 물품 개수
-
+        System.out.printf("총 물품 개수 : %d\n", restGoods);
 
 
     }
