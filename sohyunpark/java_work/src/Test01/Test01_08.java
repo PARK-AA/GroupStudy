@@ -39,6 +39,7 @@ class PlaceGoods {
         System.out.printf("총 물품 개수 : %d\n", restGoods);
 
 
+
     }
 
 }
